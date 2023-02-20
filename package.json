@@ -1,0 +1,26 @@
+{
+  "name": "artigo02-babel",
+  "version": "1.0.0",
+  "description": "<img width=\"1266\" alt=\"Captura de tela 2022-06-19 às 2 18 18 PM\" src=\"https://raw.githubusercontent.com/Edi6758/artigo01-webpack/master/src/img/project-preview.png\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel src --out-dir dist --presets=@babel/preset-env"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edi6758/artigo02-babel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edi6758/artigo02-babel/issues"
+  },
+  "homepage": "https://github.com/Edi6758/artigo02-babel#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
