@@ -13,5 +13,5 @@ Objetivo do projeto:
 
 Faz o build do projeto e compila ele.
 
-Leia o meu artigo [Webpack: oque é, como usar e como integrar com o babel](https://www.linkedin.com/pulse/oque-%C3%A9-o-babel-e-como-integrar-ele-na-sua-aplica%C3%A7%C3%A3o-js-j%C3%BAnior) para obter mais informações.
+Leia o meu artigo [O'Que é o Babel e como integrar ele na sua aplicação JS](https://www.linkedin.com/pulse/oque-%C3%A9-o-babel-e-como-integrar-ele-na-sua-aplica%C3%A7%C3%A3o-js-j%C3%BAnior) para obter mais informações.
 
